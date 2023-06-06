@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "646c5536efa874cf3d853a5c"
+  },
+  "Seperation": "3D",
+  "formation": "Axial",
+  "Cable Phase": "ABC",
+  "Cable Frequency": "50.0 Hertz",
+  "Daily Load Factor": "1.0",
+  "Conductor Temperature Of 1st Conductor": "88.5",
+  "Conductor Temperature Of 2nd Conductor": "90.0",
+  "Conductor Temperature Of 3rd Conductor": "88.5",
+  "Ampacity Of 1st Conductor": "368.5 Amp",
+  "Ampacity Of 2nd Conductor": "368.5 Amp",
+  "Ampacity Of 3rd Conductor": "368.5 Amp"
+},
+{
+  "_id": {
+    "$oid": "646e37f823d107688ec441ee"
+  },
+  "Seperation": "2D",
+  "formation": "Axial",
+  "Cable Phase": "ABC",
+  "Cable Frequency": "50.0 Hertz",
+  "Daily Load Factor": "1.0",
+  "Conductor Temperature Of 1st Conductor": "87.6",
+  "Conductor Temperature Of 2nd Conductor": "90.0",
+  "Conductor Temperature Of 3rd Conductor": "87.6",
+  "Ampacity Of 1st Conductor": "354 Amp",
+  "Ampacity Of 2nd Conductor": "354 Amp",
+  "Ampacity Of 3rd Conductor": "354 Amp"
+},
+{
+  "_id": {
+    "$oid": "646e3b3223d107688ec441ef"
+  },
+  "Seperation": "D",
+  "formation": "Axial",
+  "Cable Phase": "ABC",
+  "Cable Frequency": "50.0 Hertz",
+  "Daily Load Factor": "1.0",
+  "Conductor Temperature Of 1st Conductor": "86.3",
+  "Conductor Temperature Of 2nd Conductor": "90.0",
+  "Conductor Temperature Of 3rd Conductor": "86.2",
+  "Ampacity Of 1st Conductor": "320 Amp",
+  "Ampacity Of 2nd Conductor": "320 Amp",
+  "Ampacity Of 3rd Conductor": "320 Amp"
+},
+{
+  "_id": {
+    "$oid": "646e3e0923d107688ec441f1"
+  },
+  "Seperation": "D",
+  "formation": "Trefoil",
+  "Cable Phase": "ABC",
+  "Cable Frequency": "50.0 Hertz",
+  "Daily Load Factor": "1.0",
+  "Conductor Temperature Of 1st Conductor": "84.7",
+  "Conductor Temperature Of 2nd Conductor": "90.0",
+  "Conductor Temperature Of 3rd Conductor": "90.0",
+  "Ampacity Of 1st Conductor": "275 Amp",
+  "Ampacity Of 2nd Conductor": "275 Amp",
+  "Ampacity Of 3rd Conductor": "275 Amp"
+},
+{
+  "_id": {
+    "$oid": "646e3f2b23d107688ec441f2"
+  },
+  "Seperation": "3D",
+  "formation": "Trefoil",
+  "Cable Phase": "ABC",
+  "Cable Frequency": "50.0 Hertz",
+  "Daily Load Factor": "1.0",
+  "Conductor Temperature Of 1st Conductor": "71.2",
+  "Conductor Temperature Of 2nd Conductor": "90.0",
+  "Conductor Temperature Of 3rd Conductor": "90.0",
+  "Ampacity Of 1st Conductor": "321 Amp",
+  "Ampacity Of 2nd Conductor": "321 Amp",
+  "Ampacity Of 3rd Conductor": "321 Amp"
+},
+{
+  "_id": {
+    "$oid": "646e3f3b23d107688ec441f3"
+  },
+  "Seperation": "2D",
+  "formation": "Trefoil",
+  "Cable Phase": "ABC",
+  "Cable Frequency": "50.0 Hertz",
+  "Daily Load Factor": "1.0",
+  "Conductor Temperature Of 1st Conductor": "71.2",
+  "Conductor Temperature Of 2nd Conductor": "90.0",
+  "Conductor Temperature Of 3rd Conductor": "90.0",
+  "Ampacity Of 1st Conductor": "309 Amp",
+  "Ampacity Of 2nd Conductor": "309 Amp",
+  "Ampacity Of 3rd Conductor": "309 Amp"
+}]
